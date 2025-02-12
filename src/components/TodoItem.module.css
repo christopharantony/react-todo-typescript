@@ -4,3 +4,7 @@
   padding: 1rem;
   background-color: #f7f5ef;
 }
+
+.item:active {
+  box-shadow: 0px 0px 38px 1px rgba(255, 122, 122, 1);
+}
